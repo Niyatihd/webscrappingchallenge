@@ -1,0 +1,116 @@
+#latest_mars_news {
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: teal;
+    color: white;
+}
+
+#weather {
+    color:cadetblue;
+    padding-left: 80px;
+}
+
+#summary {
+    color:orchid;
+    padding-left: 20px;
+}
+
+#featured_img {
+    padding-left: 40px;
+    padding-right: 40px;
+    color: darkblue;
+}
+
+#summary1 {
+    color: darkblue;
+}
+
+#weather0 {
+    padding-left: 40px;
+    padding-right: 40px;
+    color: darkblue;
+}
+
+#prep_para {
+    font-size: 18px;
+}
+
+#bgcolor {
+    background-color: lightgrey;
+}
+
+#imgtitle {
+    text-align: center;
+}
+
+/* #first {
+    background-color: rgb(97, 186, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-left: 90px;
+}
+
+#second {
+    padding: 50px;
+}
+
+a {
+    color: black;
+}
+
+#foot {
+    background-color: grey;
+    height: 40px;
+    padding-top: 10px;
+    color:white;
+    font-size: 12px;
+}
+
+
+body {
+    background-color: lightgrey;
+}
+
+thumbnail.p {
+    word-wrap: break-word;
+    font-size: 30px;
+}
+
+#img1 {
+    display: block;
+    max-width: 100%;
+    height: 600px;
+    width: 600px;
+}
+
+#img2 {
+    display: block;
+    max-width: 100%;
+    height: 200px;
+    width: 300px;
+}
+p {
+    padding: 9px;
+    color: black;
+    font-size: 18px;
+}
+
+#summary {
+    color:cadetblue;
+    padding-left: 20px;
+}
+
+#weather {
+    color:cadetblue;
+    padding-left: 80px;
+}
+
+h5 {
+    text-align: center
+}
+
+#empty_teal {
+    height: 7px;
+    background-color: teal;
+} */
